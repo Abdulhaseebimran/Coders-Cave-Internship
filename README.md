@@ -21,4 +21,4 @@ In this repository, I am working on my Projects, that will give me a task on the
 
 # Link Shortener
 
-- Live Url: link-shortener-internship.surge.sh
+- Live Url: [link-shortener-internship.surge.sh](http://link-shortener-internship.surge.sh/)
